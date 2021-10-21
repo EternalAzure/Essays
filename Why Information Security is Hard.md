@@ -1,3 +1,4 @@
+read time under 4min
 # Why Information Security is Hard
 Written by Ross Anderson <br>
 University of Cambridge <br>
