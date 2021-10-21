@@ -86,4 +86,5 @@ usually have nothing to do with such altruistic goals.<br>
 They are much more likely to be the desire to grab a<br>
 monopoly, to charge different prices to different users<br>
 for essentially the same service, and to dump risk. Often<br>
-this is perfectly rational.
+this is perfectly rational. The first-mover advatage is <br>
+too great to pass
