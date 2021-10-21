@@ -2,11 +2,11 @@
 The more people use a typical network, the more
 valuable it becomes. The more people use the phone
 system – or the Internet – more people there are to
-•First, the value of a product to a user depends on
+- First, the value of a product to a user depends on
 how many other users adopt it.
-•Second, technology often has high fixed costs and
+- Second, technology often has high fixed costs and
 low marginal costs.
-•Third, there are often large costs to users from
+- Third, there are often large costs to users from
 switching technologies, which leads to lock-in.
 
 All three of these effects tend to lead to ”winner
