@@ -1,3 +1,7 @@
+# Why Information Security is Hard
+Written by Ross Anderson <br>
+University of Cambridge <br>
+Text is edited
 ## Network Externalities
 The more people use a typical network, the more <br>
 valuable it becomes.
